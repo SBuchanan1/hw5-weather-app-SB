@@ -1,4 +1,4 @@
-var APIKey = "0a32018123374229255049a1be8c1b6a";
+// var APIKey = "0a32018123374229255049a1be8c1b6a";
 var queryURL = "https://code.jquery.com/jquery-3.5.1.slim.min.js"
 var button = document.querySelector(".button")
 var inputValue = document.querySelector(".inputValue")
